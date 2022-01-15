@@ -8,6 +8,6 @@ This is application is automation for activity where you need to quit from close
  
  
 # How it works.
-There are three hardware module "Jerome" which have input/output pins and we can manage these modules have sending commands via the ethernet.
+There are three  "Jerome" hardware modules which have input/output pins and we can manage these modules by sending commands via the ethernet.
 
 ![_jerome_screenshot](https://user-images.githubusercontent.com/17491403/148832436-19550200-27df-4551-ba79-d57fed446d79.jpg)
